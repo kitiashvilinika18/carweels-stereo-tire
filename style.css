@@ -1,0 +1,362 @@
+/*LOGO*/
+.logojpg{
+	width: 170px;
+	height: 85px;
+}
+.form-inline{
+	font-size: 15px;
+	max-width: 1200px;
+}
+/*Exhaustsystem*/
+.Exhaustsystemsimg{
+	width: 150px;
+	transition: 1s;
+}
+.Exhaustsystemsimg:hover{
+	width: 300px;
+}
+.Exhaustsystemsh2{
+	display: inline-block;
+	color: red;
+	margin-left: 13.5%;
+}
+.Exhaustsystemsh3{
+	margin-top: 50px;
+	margin-left: 27.5%;
+	color: black;
+}
+/*TIRE*/
+.tire{
+	width: 100px;
+	transition: 1s;
+}
+.tire:hover{
+	width: 300px;
+}
+.tireh2{
+	display: inline-block;
+	color: red;
+	margin-left: 15%;
+}
+.tireh3{
+	margin-top: 50px;
+	margin-left: 24.5%;
+	color: black;
+}
+/*Wheels*/
+.wheels{
+	width: 100px;
+	transition: 1s
+}
+.wheels:hover{
+	width: 300px;
+}
+.wheelsh3{
+	margin-top: 50px;
+	margin-left: 24.5%;
+	color: black;
+}
+.wheelsh2{
+	display: inline-block;
+	color: red;
+	margin-left: 15%;
+}
+.wheelsbanner{
+	margin-left: 150px;
+	margin-bottom: 100px;
+	margin-top: 70px;
+	width: 1000px;
+	height: 500px;
+	max-width: 1000px;
+}
+/*home*/
+.table{
+	background-color: black;
+	color: #0275d8;
+}
+.homebanner{
+	height: 600px;
+	background-size: cover;
+	background-position: center;
+}
+li{
+	list-style-type: none;
+}
+.nav-flex-column{
+	display:inline-block;
+	position: absolute;
+	z-index: 1;
+
+}
+.homemain{
+	display:inline-block;
+	position: absolute;
+	z-index: 1;
+	height: 600px;
+	background-color: black;
+	opacity: 0.7;
+}
+/*slide*/
+.Exhaustsystemsslide1{
+	width: 900px;
+	height: 500px;
+	margin-left: 22%;
+	display: inline-block;
+}
+.Exhaustsystemsslide2{
+	width: 900px;
+	height: 500px;
+	margin-left: 20%;
+}
+.Exhaustsystemsslide3{
+	width: 900px;
+	height: 500px;
+	margin-left: 20%;
+}
+.GPSslide1{
+	width: 900px;
+	height: 500px;
+	margin-left: 22%;
+	display:inline-block;
+}
+.GPSslide2{
+	width: 900px;
+	height: 500px;
+	margin-left: 20%;
+}
+.GPSslide3{
+	width: 900px;
+	height: 500px;
+	margin-left: 20%;
+}
+.cameraslide1{
+	width: 900px;
+	height: 500px;
+	margin-left: 22%;
+	display:inline-block;
+}
+.cameraslide2{
+	width: 900px;
+	height: 500px;
+	margin-left: 20%;
+}
+.cameraslide3{
+	width: 900px;
+	height: 500px;
+	margin-left: 20%;
+}
+.stereoslide1{
+	width: 900px;
+	height: 500px;
+	margin-left: 22%;
+	display:inline-block;
+}
+.stereoslide2{
+	width: 900px;
+	height: 500px;
+	margin-left: 20%;
+}
+.stereoslide3{
+	width: 900px;
+	height: 500px;
+	margin-left: 20%;
+}
+.tireslide1{
+	width: 900px;
+	height: 500px;
+	margin-left: 22%;
+	display:inline-block;
+}
+.tireslide2{
+	width: 1000px;
+	height: 500px;
+	margin-left: 18%;
+}
+.tireslide3{
+	width: 900px;
+	height: 500px;
+	margin-left: 20%;
+}
+.wheelsslide1{
+	width: 900px;
+	height: 500px;
+	margin-left: 22%;
+	display:inline-block;
+}
+.wheelsslide2{
+	width: 900px;
+	height: 500px;
+	margin-left: 20%;
+}
+.wheelsslide3{
+	width: 900px;
+	height: 500px;
+	margin-left: 20%;
+}
+.lideslide1{
+	width: 900px;
+	height: 500px;
+	margin-left: 20%;
+	display:inline-block;
+}
+.lideslide2{
+	width: 900px;
+	height: 500px;
+	margin-left: 20%;
+}
+.lideslide3{
+	width: 900px;
+	height: 500px;
+	margin-left: 20%;
+}
+.slide1{
+	width: 900px;
+	height: 500px;
+	margin-left: 20%;
+	display:inline-block;
+}
+.slide2{
+	width: 900px;
+	height: 500px;
+	margin-left: 20%;
+}
+.slide3{
+	width: 900px;
+	height: 500px;
+	margin-left: 20%;
+}
+.carousel-inner{
+	background-color: #776969
+}
+.carousel-control-prev{
+	margin-left: 20%;
+}
+.carousel-control-next{
+	margin-right: 23%;
+}
+/*news*/
+.h1text{
+	margin-top: 100px;
+}
+.driftimg{
+	max-width: 700px;
+}
+.newsptext{
+	color:  black;
+	font-size: 16px;
+	margin-top: 30px;
+	transition: 2s;
+}
+.newsptext:hover{
+	color:black;
+	font-size: 30px;
+}
+/*stereo*/
+.stereobanner{
+	max-width: 900px;
+	height: 500px;
+	margin-left: 10%;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+.stereoimg{
+	max-width:100px;
+	transition: 1s;
+}
+.stereoimg:hover{
+	max-width:300px;
+}
+.stereoh2{
+	display: inline-block;
+	color: red;
+	margin-left: 15%;
+}
+.stereoh3{
+	margin-top: 50px;
+	margin-left: 24.5%;
+	color: black;
+}
+/*headlight*/
+.lightsimg{
+	max-width:100px;
+	transition: 1s;
+}
+.lightsimg:hover{
+	max-width:350px;
+}
+.lighth2{
+	display: inline-block;
+	color: red;
+	margin-left: 15%;
+}
+.lihgth3{
+	margin-top: 50px;
+	margin-left: 24.5%;
+	color: black;
+}
+/*GPSmonts*/
+.GPSimg{
+	max-width: 100px;
+	transition: 1s;
+}
+.GPSimg:hover{
+	max-width: 300px;
+}
+.GPSh2{
+	display: inline-block;
+	color: red;
+	margin-left: 15%;
+}
+.GPSh3{
+	margin-top: 50px;
+	margin-left: 24.5%;
+	color: black;
+}
+/*taillight*/
+.tailimg{
+	max-width: 100px;
+	transition: 1s;
+}
+.tailimg:hover{
+	max-width: 300px;
+}
+.tailh2{
+	display: inline-block;
+	color: red;
+	margin-left: 15%;
+}
+.tailh3{
+	margin-top: 50px;
+	margin-left: 24.5%;
+	color: black;
+}
+/*camera*/
+.cameraimg{
+	margin-left: 10%;
+	width:100px;
+	transition: 1s;
+}
+.cameraimg:hover{
+	width: 260px;
+}
+.camerah2{
+	display: inline-block;
+	color: red;
+	margin-left: 15%;
+}
+.camerah3{
+	margin-top: 40px;
+	margin-left: 34%;
+	color: black;
+}
+hr{
+	background-color: black;
+}
+.contactinformation{
+	margin-top: 20px;
+	padding: 50px;
+	background-color:black;
+	color: white;
+	opacity: 0.8;
+}
+@media (max-width: 1200px)
